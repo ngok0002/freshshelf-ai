@@ -1,0 +1,15 @@
+{
+  "name": "freshshelf-backend",
+  "version": "1.0.0",
+  "description": "Backend API for FreshShelf AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

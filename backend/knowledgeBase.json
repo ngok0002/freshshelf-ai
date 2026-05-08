@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "productType": "milk",
+    "keywords": ["milk", "dairy", "fridge", "cold", "temperature"],
+    "advice": "Milk should usually be stored in the refrigerator at around 0-4°C. Higher temperatures increase bacterial growth and reduce shelf life."
+  },
+  {
+    "id": 2,
+    "productType": "bread",
+    "keywords": ["bread", "bakery", "humidity", "mold", "dry"],
+    "advice": "Bread should be stored in a cool and dry place. High humidity can increase mold growth and reduce shelf life."
+  },
+  {
+    "id": 3,
+    "productType": "meat",
+    "keywords": ["meat", "raw", "protein", "bacteria", "cold"],
+    "advice": "Meat is highly temperature-sensitive and should be stored at low temperature. If storage temperature is too high, spoilage risk increases quickly."
+  },
+  {
+    "id": 4,
+    "productType": "fruit",
+    "keywords": ["fruit", "fresh", "ripe", "humidity", "warm"],
+    "advice": "Fruits should be stored under suitable temperature and humidity conditions. Overripe fruits spoil faster, especially in warm environments."
+  },
+  {
+    "id": 5,
+    "productType": "vegetables",
+    "keywords": ["vegetables", "fresh", "humidity", "storage", "moisture"],
+    "advice": "Vegetables often need cool storage and moderate humidity. Too much moisture may cause decay, while too little moisture may cause drying."
+  },
+  {
+    "id": 6,
+    "productType": "general",
+    "keywords": ["packaging", "opened", "sealed", "damaged", "vacuum"],
+    "advice": "Packaging condition affects shelf life. Opened or damaged packaging increases exposure to air and microorganisms, which can increase spoilage risk."
+  }
+]
